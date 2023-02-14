@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @afser11
+- 👋 Hi, I’m Afsar ALi
 - 👀 I’m interested in learn programming
-- 🌱 I’m currently learning web devlopnment
-- 💞️ I’m looking to collaborate on html learning
-- 📫 How to reach me throug mail
+- 🌱 Currently i am pursuing BCA speclization in Data Science
+- 
 
 <!---
 afser11/afser11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
